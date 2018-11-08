@@ -1,0 +1,3 @@
+# ChatBot (to be named)
+
+Building seq2seq model in PyTorch.  Dialogue pulled from scripts on https://www.imsdb.com , but defining dialogue is rough at this point. Not sure there's enough dialogue from a single person to create an entire chatbot based on it, not sure how harmful it is to just inject cloned lines to train on.  Initial idea was to create this as part of a complete imaginary friend toolkit, which would eventually hope to include deepfakes for inserting faces into Disneyland photos and even faking voices, but at that point the idea is getting way too creepy.  So much for Robert Downey, Jr. Bot.
